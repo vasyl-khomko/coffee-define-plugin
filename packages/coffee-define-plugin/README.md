@@ -1,0 +1,1 @@
+Allows to use a command define in coffeescript
